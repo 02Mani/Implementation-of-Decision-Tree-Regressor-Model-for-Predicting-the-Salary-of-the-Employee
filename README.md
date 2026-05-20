@@ -72,7 +72,7 @@ print("\nPredicted Salary for 5 years experience:", predicted_salary[0])
 ## Output:
 
 
-<img width="1058" height="988" alt="image" src="https://github.com/user-attachments/assets/f85e7501-e457-42f0-956b-990cb2e37b1e" />
+<img width="1045" height="872" alt="image" src="https://github.com/user-attachments/assets/3bf2ef18-db9b-4468-85a8-c2880df87167" />
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
